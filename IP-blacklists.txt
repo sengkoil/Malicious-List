@@ -4,7 +4,7 @@
 # 
 # Date: 24 March 2025 
 # 
-# Fetch the latest version of this file: https://raw.githubusercontent.com/sengkoil/Malicious-List/refs/heads/main/malicious-urls
+# Fetch the latest version of this file: https://raw.githubusercontent.com/sengkoil/Malicious-List/refs/heads/main/IP-blacklists.txt
 # 
 # Title: IP Blacklist contributed by Mohd Sufian
 # ===============================================================
