@@ -2,7 +2,7 @@
 #
 # This hosts file is a merged collection of malicious IP from reputable sources,
 # 
-# Date: 23 March 2025 
+# Date: 24 March 2025 
 # 
 # Fetch the latest version of this file: https://raw.githubusercontent.com/sengkoil/Malicious-List/refs/heads/main/malicious-urls
 # 
@@ -24,3 +24,11 @@
 172.67.140.127
 104.21.49.27
 173.255.248.23
+206.189.73.111
+173.255.248.23
+173.255.205.77
+147.182.183.96
+198.74.56.111
+138.68.253.248
+172.104.215.41
+138.68.23.255
