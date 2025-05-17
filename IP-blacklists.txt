@@ -1,3 +1,14 @@
+# Title: sengkoil/Malicious-List
+#
+# This hosts file is a merged collection of malicious IP from reputable sources,
+# 
+# Date: 24 March 2025 
+# 
+# Fetch the latest version of this file: https://raw.githubusercontent.com/sengkoil/Malicious-List/refs/heads/main/IP-blacklists.txt
+# 
+# Title: IP Blacklist contributed by Mohd Sufian
+# ===============================================================
+
 46.8.232.106
 132.145.111.234
 128.0.118.23
