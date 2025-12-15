@@ -2,7 +2,8 @@
 #
 # This hosts file is a merged collection of malicious URLs from reputable sources,
 # 
-# Date: 24 March 2025 
+# Date: 24 March 2025
+# updated: 15.12.2025
 # 
 # Fetch the latest version of this file: https://raw.githubusercontent.com/sengkoil/Malicious-List/refs/heads/main/malicious-urls
 # 
@@ -1828,3 +1829,5 @@ www.axaporcelaine.ro
 axaporcelaine.ro
 con.updatepanel.cc
 updatepanel.cc
+ak1.xingxings2.cc
+xingxings2.cc
