@@ -1,4 +1,4 @@
-# Title: sengkoil/Malicious-List
+# Title: sengkoil/IP Blacklist
 #
 # This hosts file is a merged collection of malicious IP from reputable sources,
 # 
